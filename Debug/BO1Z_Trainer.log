@@ -1,0 +1,5 @@
+﻿  dllmain.cpp
+D:\Extra\Reverse Engineering\Projects\BlackOps1ZombiesSoloTrainer\BO1Z_Trainer\src\base.h(12,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Extra\Reverse Engineering\Projects\BlackOps1ZombiesSoloTrainer\BO1Z_Trainer\src\base.h(13,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Extra\Reverse Engineering\Projects\BlackOps1ZombiesSoloTrainer\BO1Z_Trainer\src\dllmain.cpp(260,38): warning C4805: '==': unsafe mix of type 'bool' and type 'float' in operation
+  BO1Z_Trainer.vcxproj -> D:\Extra\Reverse Engineering\Projects\BlackOps1ZombiesSoloTrainer\BO1Z_Trainer\Debug\BO1Z_Trainer.dll

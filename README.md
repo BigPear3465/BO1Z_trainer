@@ -19,3 +19,5 @@ Some issues:
 Ofourse you will need an injector because this is an internal cheat, here are some recommendations: 
 https://www.unknowncheats.me/forum/general-programming-and-reversing/213038-extreme-injector-v3-7-a.html
 https://www.unknowncheats.me/forum/general-programming-and-reversing/124013-xenos-injector-v2-3-2-a.html
+
+Also i wanna point out that this was mostly a test cheat so there are many useless files/headers and some weird functions just to test shit out
